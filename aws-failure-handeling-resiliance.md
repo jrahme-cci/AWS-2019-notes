@@ -64,7 +64,7 @@ Be pessemistic
 
 Lots of unplanned stuff can happen, and a cpu can't run at 100% really
 
-![amdahls-law](aws-failure-handling-pics/adahls-law.jpg)
+![amdahls-law](aws-failure-handling-pics/amdahls-law.jpg)
 
 Amdal's Law
 
